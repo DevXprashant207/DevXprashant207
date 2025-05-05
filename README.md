@@ -18,6 +18,10 @@ Deep diving into the **MERN stack** (MongoDB, Express, React, Node.js).
 ⚡ Fun fact:  
 I love building things that solve real-world problems—and enjoy blending **logic with creativity** in development!
 
+### 📘 LeetCode Stats
+
+[![LeetCode Stats](https://leetcard.jacoblin.cool/DevXprashant207?theme=dark&font=Fira%20Code&extension=activity)](https://leetcode.com/DevXprashant207)
+
 ---
 
 
