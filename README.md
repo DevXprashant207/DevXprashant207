@@ -1,8 +1,27 @@
-# 💫 About Me:
-🛠️ I’m currently working on:<br>Projects using the MERN stack and contributing to my NGO’s website (UDDESHHYA).<br><br>🤝 I’m looking to collaborate on:<br>Full-stack web development projects or hackathon teams.<br><br>🙋‍♂️ I’m looking for help with:<br>Optimizing backend performance and mastering advanced React concepts like Recoil and Context API.<br><br>🌱 I’m currently learning:<br>MERN stack deeply, especially backend with Node.js and Express.<br><br>💬 Ask me about:<br>Frontend animations, responsive design, or managing tech & design for social initiatives.<br><br>⚡ Fun fact:<br>I love building things that solve real problems—and enjoy combining logic with creativity in web development!
+## 👋 About Me
+
+🛠️ I’m currently working on:  
+Projects using the **MERN stack** and contributing to my NGO’s website (**UDDESHHYA**).
+
+🤝 I’m looking to collaborate on:  
+**Full-stack web development projects** or **hackathon teams**.
+
+🙋‍♂️ I’m looking for help with:  
+Optimizing **backend performance** and mastering **advanced React concepts** like **Recoil** and **Context API**.
+
+🌱 I’m currently learning:  
+Deep diving into the **MERN stack** (MongoDB, Express, React, Node.js).
+
+💬 Ask me about:  
+**Frontend animations**, **responsive design**, or how I manage both **tech and design** for social initiatives.
+
+⚡ Fun fact:  
+I love building things that solve real-world problems—and enjoy blending **logic with creativity** in development!
+
+---
 
 
-## 🌐 Socials:
+## 🌐 Connect with me on :
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/DevXprashant207) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/DevXprashant207) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pt264doc@gmail.com) 
 
 # 💻 Tech Stack:
