@@ -1,7 +1,10 @@
 ## 👋 About Me
 
 🛠️ I’m currently working on:  
-Projects using the **MERN stack** and contributing to my NGO’s website (**UDDESHHYA**).
+Projects using the **MERN stack** and contributing to my NGO’s website **UDDESHHYA**, Link -> https://uddeshhya.in/.
+
+🌐 Check out my portfolio:  
+[**https://portfolio-devxprashant207s-projects.vercel.app/**](https://portfolio-devxprashant207s-projects.vercel.app/)
 
 🤝 I’m looking to collaborate on:  
 **Full-stack web development projects** or **hackathon teams**.
@@ -17,6 +20,7 @@ Deep diving into the **MERN stack** (MongoDB, Express, React, Node.js).
 
 ⚡ Fun fact:  
 I love building things that solve real-world problems—and enjoy blending **logic with creativity** in development!
+
 
 ### 📘 LeetCode Stats
 
