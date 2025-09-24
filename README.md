@@ -5,7 +5,7 @@ Projects using the **MERN stack** and contributing to my NGO’s website **UDDES
 
 🌐 [**Check out my portfolio**](https://portfolio-devxprashant207s-projects.vercel.app/)
 
-📄 [**View my resume**](https://drive.google.com/drive/u/2/folders/1bXdQkeIutTK4o5oCm4ilEyFyTcKgmDi1/view)
+📄 [**View my resume**](https://drive.google.com/file/d/1YQy-SS_0pmVR8cN6CyC1XFlo9o5Htk0q/view?pli=1)
 
 🤝 I’m looking to collaborate on:  
 **Full-stack web development projects** or **hackathon teams**.
