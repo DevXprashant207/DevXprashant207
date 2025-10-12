@@ -1,7 +1,7 @@
 ## 👋 About Me
 
 🛠️ I’m currently working on:  
-Projects using the **MERN stack** and contributing to my NGO’s website **UDDESHHYA** [**Link**](https://uddeshhya.in/).
+Projects using the **Full stack** and contributing to my NGO’s website **UDDESHHYA** [**Link**](https://uddeshhya.in/).
 
 🌐 [**Check out my portfolio**](https://portfolio-devxprashant207s-projects.vercel.app/)
 
