@@ -5,7 +5,7 @@ Projects using the **Full stack** and contributing to my NGO’s website **UDDES
 
 🌐 [**Check out my portfolio**](https://portfolio-devxprashant207s-projects.vercel.app/)
 
-📄 [**View my resume**](https://drive.google.com/file/d/1zjUHRBoRNVzfSg6xg68PCSlPrJ8aoOw4/view?usp=sharing)
+📄 [**View my resume**](https://drive.google.com/file/d/1RGaHOIE9dorVkU2AonawDqL2aHhT2WCt/view?usp=sharing)
 
 🤝 I’m looking to collaborate on:  
 **Full-stack web development projects** or **hackathon teams**.
